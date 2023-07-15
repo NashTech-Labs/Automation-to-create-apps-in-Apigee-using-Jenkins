@@ -2,7 +2,7 @@
 
 In Apigee, "apps" refer to developer applications or developer apps. Apps are entities created within the Apigee platform that represent applications developed by developers or organizations to consume and interact with APIs exposed by the API provider.
 
-## Create/Update Products in Apigee using Jenkins
+## Create Apps in Apigee using Jenkins
 
 This repository contains Jenkinsfile which has script for creating apps in Apigee.
 
